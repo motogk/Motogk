@@ -4,7 +4,7 @@
 #profile-web-page-url:https://t.me/jdjzujz
 #announce:ИСПОЛЬЗУЙТЕ ПОДПИСКУ ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ.                             
 
-vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.250.251:25567?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=iv.kommersant.ru&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&sid=a5bd715847213387#%F0%9F%87%AA%F0%9F%87%BA%20O%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA%20%234
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=b0c58c398abb6842#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20GameVPN%20%7C%20%D1%82%D0%B3%D0%BA%3A%20Vlesstrogan
 
 vless://29d0bb5e-1301-4d79-95da-82e28d3e61ef@78.159.245.45:25565?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=img.perekrestok.ru&pbk=Pw1EUU1hud5uvtfySGyGy5vV38bYIiQzDx-cDQoAdk0&sid=a5bd715847213387#%F0%9F%87%AA%F0%9F%87%BA%20O%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA%20%2312
 
