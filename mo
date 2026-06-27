@@ -2,7 +2,7 @@
 #profile-update-interval:1 
 #support-url:https:https://t.me/jdjzujz
 #profile-web-page-url:https://t.me/jdjzujz
-#announce:ИСПОЛЬЗУЙТЕ ПОДПИСКУ ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ.                             
+#announce:ИСПОЛЬЗУЙТЕ ПОДПИСКУ ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ                         
 
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=b0c58c398abb6842#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20GameVPN%20%7C%20%D1%82%D0%B3%D0%BA%3A%20Vlesstrogan
 
